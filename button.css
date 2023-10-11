@@ -1,0 +1,19 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; 
+  gap: 20px;
+  margin-top: 15%;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: large;
+}
+
+button:hover {
+  background-color: cadetblue;
+}
